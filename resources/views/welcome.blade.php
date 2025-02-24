@@ -7,7 +7,6 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 
-<body>
     <style>
         body {
             background-image: url('{{ asset('images/wp1892101.webp') }}');
@@ -22,6 +21,7 @@
             }
         }
     </style>
+<body>
 
 
     <div class="h-screen relative overflow-hidden"> <!-- Semicirculo blanco -->
