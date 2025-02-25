@@ -36,6 +36,12 @@
                 <h1 class="text-xl mb-4">Muy pronto nos Casamos!!!!</h1>
                 <p class="text-lg mb-2">V&M</p>
                 <p class="px-4">NO ESTAN PREPARADOS!!!</p>
+                <a href="/modelo1" class="inline-block mt-4 px-6 py-2 text-white bg-blue-500 rounded hover:bg-blue-700">
+                    Ver alternativa
+                </a>
+                <a href="/invitacion" class="inline-block mt-4 px-6 py-2 text-white bg-blue-500 rounded hover:bg-blue-700">
+                    Ver Invitación
+                </a>
                 <div class="hidden md:block">
                     <x-countdown id="countdown-desktop"></x-countdown>
                 </div>
