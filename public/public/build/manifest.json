@@ -1,6 +1,10 @@
 {
+  "public/images/wp1892101.webp": {
+    "file": "assets/wp1892101-CwF2b_4H.webp",
+    "src": "public/images/wp1892101.webp"
+  },
   "resources/css/app.css": {
-    "file": "assets/app-C5Gqf5FV.css",
+    "file": "assets/app-CDhqO1bq.css",
     "src": "resources/css/app.css",
     "isEntry": true
   },

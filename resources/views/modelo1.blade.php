@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
-<style>
+{{-- <style>
     .fondo {
         background-image: url('{{ asset('images/wp1892101.webp') }}');
         background-size: cover;
@@ -19,7 +19,7 @@
             background-position-x: 33.33%;
         }
     }
-</style>
+</style> --}}
 
 
 <body>
@@ -33,7 +33,7 @@
             <h1 class="text-3xl mb-4">Muy pronto nos Casamos!!!!</h1>
             <p class="text-7xl mb-2">V&M</p>
             <p class="px-4">NO ESTAN PREPARADOS!!!</p>
-            <a href="/modelo1" class="inline-block mt-4 px-6 py-2 text-white bg-blue-500 rounded hover:bg-blue-700">
+            <a href="/modelo1" class="inline-block mt-4 px-6 py-2 text-white bg-red-500 rounded hover:bg-blue-700">
                 Ver alternativa
             </a>
             <a href="/invitacion" class="inline-block mt-4 px-6 py-2 text-white bg-blue-500 rounded hover:bg-blue-700">
