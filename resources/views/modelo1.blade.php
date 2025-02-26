@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
-<style>
+{{-- <style>
     .fondo {
         background-image: url('{{ asset('images/wp1892101.webp') }}');
         background-size: cover;
@@ -19,7 +19,7 @@
             background-position-x: 33.33%;
         }
     }
-</style>
+</style> --}}
 
 
 <body>
